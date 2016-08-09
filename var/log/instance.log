@@ -1,0 +1,2988 @@
+------
+2016-08-09T11:30:08 INFO ZServer HTTP server started at Tue Aug  9 11:30:08 2016
+	Hostname: 0.0.0.0
+	Port: 9097
+------
+2016-08-09T11:30:09 INFO ZODB.blob (17521) Blob directory `/var/plone/odpn.site/var/blobstorage/` is unused and has no layout marker set. Selected `bushy` layout. 
+------
+2016-08-09T11:30:09 INFO ZODB.blob (17521) Blob temporary directory '/var/plone/odpn.site/var/blobstorage/tmp' does not exist. Created new directory.
+------
+2016-08-09T11:30:09 WARNING ZODB.blob (17521) Blob dir /var/plone/odpn.site/var/blobstorage/ has insecure mode setting
+------
+2016-08-09T11:30:15 INFO Zope Ready to handle requests
+------
+2016-08-09T11:30:52 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.properties Site properties imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.catalog Catalog imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.workflow Workflow tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Adapters purged.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Subscribers purged.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Utilities purged.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:52 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.actions Actions tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup. ATCTTool settings imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.memberdata MemberData tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.mailhost Mailhost imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.contenttypes Content type registry imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.propertiestool Properties tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.plone.app.viewletmanager Imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup. DiffTool settings imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:52 INFO GenericSetup.types Types tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATBooleanCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATCurrentAuthorCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATDateCriteria' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATDateRangeCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATListCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATPathCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATRelativePathCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATPortalTypeCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATReferenceCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATSelectionCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATSimpleIntCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATSimpleStringCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'ATSortCriterion' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Document' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Event' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'File' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Folder' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Image' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Link' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'News Item' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'TempFolder' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.types 'Topic' type info imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.factorytool FactoryTool settings imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.portlets Portlets imported
+------
+2016-08-09T11:30:52 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:52 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-08-09T11:30:52 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:52 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:52 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:52 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:52 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-08-09T11:30:52 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:53 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.catalog Catalog imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:53 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:53 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.action-icons Action icons tool settings imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup. RepositoryTool settings imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.portal_languages Plone language tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.replaceRootUserFolder Capturing user info for admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.replaceRootUserFolder Translating user admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.replaceRootUserFolder Replaced root acl_users with PluggableAuthService
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_setup)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/MailHost)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/caching_policy_manager)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/content_type_registry)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/error_log)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/plone_utils)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actionicons)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/document_actions)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/document_actions/rss)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/document_actions/print)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/document_actions/full_screen)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/document_actions/extedit)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/site_actions)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/site_actions/sitemap)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/site_actions/accessibility)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/site_actions/contact)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/site_actions/plone_setup)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons/copy)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons/cut)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons/rename)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons/paste)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons/delete)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/folder_buttons/change_state)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object/folderContents)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object/syndication)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object/contentrules)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object/local_roles)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object_buttons)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object_buttons/cut)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object_buttons/copy)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object_buttons/paste)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object_buttons/delete)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/object_buttons/rename)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/portal_tabs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/portal_tabs/index_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/user)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/user/preferences)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/user/login)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/user/join)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/user/undo)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_actions/user/logout)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_atct)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_calendar)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_catalog)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_catalog/htmltext_lexicon)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_catalog/plaintext_lexicon)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_catalog/plone_lexicon)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_controlpanel)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_css)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_diff)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_discussion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_factory)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_groupdata)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_groups)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_interface)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_javascripts)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_memberdata)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_membership)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_metadata)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_migration)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_password_reset)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_properties)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_properties/navtree_properties)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_properties/site_properties)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_quickinstaller)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_registration)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/ATContentTypes)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 100
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/referencebrowser)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/LanguageTool)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/archetypes)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 200
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/cmf_legacy)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/custom)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/PasswordReset)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/mimetypes_icons)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_3rdParty)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 300
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_content)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_deprecated)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 400
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 500
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_ecmascript)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_form_scripts)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_forms)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 600
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_images)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 700
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_login)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_prefs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_scripts)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 800
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_templates)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_styles)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/plone_wysiwyg)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/CMFEditions)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_skins/cmfeditions_views)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATBooleanCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATCurrentAuthorCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATDateCriteria)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATDateRangeCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATListCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATPathCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATRelativePathCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATPortalTypeCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATReferenceCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATSelectionCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATSimpleIntCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATSimpleStringCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/ATSortCriterion)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Discussion Item)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Document)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Event)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/File)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Folder)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Image)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Link)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/News Item)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Plone Site)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/TempFolder)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_types/Topic)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 900
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_uidannotation)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_uidgenerator)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_uidhandler)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_undo)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_url)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_view_customizations)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/states/visible)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/states/private)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/states/published)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/transitions/retract)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/transitions/hide)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/transitions/publish)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/transitions/show)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/variables/action)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/variables/time)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/variables/comments)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/variables/actor)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/folder_workflow/variables/review_history)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/states/internal)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/states/private)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/transitions/hide)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/transitions/show_internally)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/variables/action)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/variables/time)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/variables/comments)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/variables/actor)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_folder_workflow/variables/review_history)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/states/internally_published)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/states/internal)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/states/private)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/states/pending)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/states/external)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/hide)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/submit)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/show_internally)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/publish_internally)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/reject)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/retract)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/transitions/publish_externally)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/variables/action)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/variables/time)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/variables/comments)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/variables/actor)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/variables/review_history)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/intranet_workflow/worklists/reviewer_queue)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow/states/published)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow/variables/action)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow/variables/time)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow/variables/comments)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow/variables/actor)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/one_state_workflow/variables/review_history)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/states/visible)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/states/private)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/states/pending)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/states/published)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/transitions/hide)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/transitions/show)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/transitions/submit)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/transitions/publish)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/transitions/reject)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/transitions/retract)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/variables/action)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/variables/time)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/variables/comments)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/variables/actor)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/variables/review_history)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/plone_workflow/worklists/reviewer_queue)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 1000
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/states/private)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/states/pending)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/states/published)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/transitions/retract)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/transitions/submit)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/transitions/publish)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/transitions/reject)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/variables/action)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/variables/time)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/variables/comments)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/variables/actor)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/variables/review_history)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_workflow/simple_publication_workflow/worklists/reviewer_queue)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/translation_service)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_form_controller)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/mimetypes_registry)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/st_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/rest_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/word_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/safe_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/html_body)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/html_to_text)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/text_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/text-pre_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/pdf_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/pdf_to_text)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_png)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_gif)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_jpeg)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_pcx)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_ppm)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_tiff)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/image_to_bmp)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/python_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/rest_to_text)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/markdown_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/textile_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/web_intelligent_plain_text_to_html)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_transforms/html_to_web_intelligent_plain_text)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/archetype_tool)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/reference_catalog)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/uid_catalog)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_archivist)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_historiesstorage)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_historyidhandler)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/OMInsideChildrensModifier)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/OMOutsideChildrensModifier)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/RetainUIDs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/RetainATRefs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/NotRetainATRefs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/RetainWorkflowStateAndHistory)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/RetainPermissionsSettings)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/SaveFileDataInFileTypeByReference)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/SillyDemoRetrieveModifier)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/SkipParentPointers)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/SkipRegistryBasesPointers)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/AbortVersioningOfLargeFilesAndImages)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/SkipVersioningOfLargeFilesAndImages)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/SkipBlobs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/CloneBlobs)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_modifier/Skip_z3c_blobfile)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_purgepolicy)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_referencefactories)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_repository)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/portal_languages)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/odpn/acl_users)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/acl_users)
+
+------
+2016-08-09T11:30:53 INFO PluggableAuthService.upgrade.replace_acl_users Root acl_users has been replaced, and local role assignments updated.
+
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.propertiestool Properties tool imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:53 INFO GenericSetup.action-icons Action icons tool settings imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:53 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:53 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:53 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.portal_tinymce TinyMCE Settings imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:54 INFO GenericSetup.action-icons Action icons tool settings imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:54 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:54 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-08-09T11:30:54 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:54 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:54 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:54 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.types Types tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.types 'Collection' type info imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.factorytool FactoryTool settings imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.catalog Catalog imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.workflow Workflow tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.actions Actions tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup. ATCTTool settings imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:55 INFO GenericSetup.types Types tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:55 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.portlets Portlets imported
+------
+2016-08-09T11:30:56 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.portlets Portlets imported
+------
+2016-08-09T11:30:56 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:56 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:56 INFO GenericSetup.portlets Portlets imported
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.plone.app.viewletmanager Imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.actions Actions tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.actions Actions tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:57 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:58 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:58 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.actions Actions tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:58 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:30:59 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.memberdata MemberData tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:59 INFO GenericSetup.types Types tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.portlets Portlets imported
+------
+2016-08-09T11:30:59 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:30:59 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:30:59 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:30:59 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:31:00 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.toolset Toolset imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-08-09T11:31:00 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-08-09T11:31:00 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:31:00 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.skins Skins tool imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.archetypetool Archetype tool imported.
+------
+2016-08-09T11:31:00 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-08-09T11:31:00 INFO GenericSetup.plone.app.theming.exportimport Theme odpn.theme applied
+------
+2016-08-09T11:31:00 INFO GenericSetup.plone.app.theming.exportimport Theme enabled
+------
+2016-08-09T14:36:17 INFO SignalHandler Caught signal SIGHUP
+------
+2016-08-09T14:36:17 INFO Z2 Restarting
+------
+2016-08-09T14:36:17 INFO SignalHandler Caught signal SIGTERM
+------
+2016-08-09T14:36:17 INFO Z2 Shutting down fast
+------
+2016-08-09T14:36:17 INFO ZServer closing HTTP to new connections
+------
+2016-08-09T14:37:33 INFO ZServer HTTP server started at Tue Aug  9 14:37:33 2016
+	Hostname: 0.0.0.0
+	Port: 9097
+------
+2016-08-09T14:37:36 WARNING ZODB.blob (23786) Blob dir /var/plone/odpn.site/var/blobstorage/ has insecure mode setting
+------
+2016-08-09T14:49:09 INFO ZServer HTTP server started at Tue Aug  9 14:49:09 2016
+	Hostname: 0.0.0.0
+	Port: 9097
+------
+2016-08-09T14:49:12 WARNING ZODB.blob (23960) Blob dir /var/plone/odpn.site/var/blobstorage/ has insecure mode setting
+------
+2016-08-09T14:56:55 INFO ZServer HTTP server started at Tue Aug  9 14:56:55 2016
+	Hostname: 0.0.0.0
+	Port: 9097
+------
+2016-08-09T14:56:57 WARNING ZODB.blob (23992) Blob dir /var/plone/odpn.site/var/blobstorage/ has insecure mode setting
+------
+2016-08-09T14:59:11 INFO ZServer HTTP server started at Tue Aug  9 14:59:11 2016
+	Hostname: 0.0.0.0
+	Port: 9097
+------
+2016-08-09T14:59:13 WARNING ZODB.blob (24029) Blob dir /var/plone/odpn.site/var/blobstorage/ has insecure mode setting
+------
+2016-08-09T15:01:17 INFO ZServer HTTP server started at Tue Aug  9 15:01:17 2016
+	Hostname: 0.0.0.0
+	Port: 9097
+------
+2016-08-09T15:01:19 WARNING ZODB.blob (24133) Blob dir /var/plone/odpn.site/var/blobstorage/ has insecure mode setting
+------
+2016-08-09T15:01:22 WARNING plone.behavior Specifying 'for' in behavior 'Dynamic SearchableText indexer behavior' if no 'factory' is given has no effect and is superfluous.
+------
+2016-08-09T15:01:22 WARNING plone.behavior Specifying 'for' in behavior 'Multilingual Support' if no 'factory' is given has no effect and is superfluous.
